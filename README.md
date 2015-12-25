@@ -10,6 +10,13 @@ This is like the stuff those annoying gold sellers use to talk automati and magi
 Perfect when your lazy ass is finding a Shadow Tower group but cant be bothered to spam the chat for it.
 You lazy pig.
 
+## Trovesaurus Searcher ##
+You know that feeling when you see someone selling something that is so expensive but you have no idea what it is?
+Now all you have to do is copy that term name and run this script.
+
+Works best with an application that can run AppleScripts via shortcut.
+Cause who the hell wants to click more when you can just open a browser and search.
+
 ## Usage ##
 All scripts are made in APPLEscript. Emphasis on APPLE.
 That means all scripts can ONLY be run in OS X. No other platforms.
