@@ -10,4 +10,11 @@ This is like the stuff those annoying gold sellers use to talk automati and magi
 Perfect when your lazy ass is finding a Shadow Tower group but cant be bothered to spam the chat for it.
 You lazy pig.
 
+## Usage ##
+All scripts are made in APPLEscript. Emphasis on APPLE.
+That means all scripts can ONLY be run in OS X. No other platforms.
+
+To use the scripts on OS X, simply double click the script you want to use.
+Then, press the little play button on the GUI and you're pretty much set.
+
 All scripts can be used, modified in any way whatsoever.
